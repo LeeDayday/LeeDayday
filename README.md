@@ -1,5 +1,9 @@
 ### Hi there 👋
+
+[![wakatime](https://wakatime.com/badge/user/a30cda9c-712f-41cb-a2b4-34fe9a93441c.svg)](https://wakatime.com/@a30cda9c-712f-41cb-a2b4-34fe9a93441c)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dayday)](https://solved.ac/dayday/)
+
 
 <h3 align="left">💡 My Most Used Languages 💡</h3>
 <p align="left">
