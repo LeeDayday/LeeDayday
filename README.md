@@ -15,7 +15,7 @@
 <h3 align="left">💡 My Git Stats 💡</h3>
 <p align="left">
   <a href="https://github.com/LeeDayday">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeDayday&hide=${가릴항목}&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeDayday&hide=${가릴항목}&hide_title=true&show_icons=true&include_all_commits=false&theme=nord" />
   </a>
 </p>
 
